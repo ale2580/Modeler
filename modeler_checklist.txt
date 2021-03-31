@@ -1,0 +1,29 @@
+Modeler Bells and Whistles checklist for grading
+
+HKUST login(s):
+
+Basic requirements: 
+Please state what 2B you implemented to exclude from your B/W scores below
+B __animation____
+B ___polygonal faces (triangles)___
+
+B/W:
+
+Delete yes/no when appropriate
+
+
+W dramatic light					yes
+W adjustable LoD					yes
+W your idea 						yes (Mobius type strip from cube primitives)
+B texture map						no
+B polygonal faces (triangles)				yes 
+B animation       					yes
+B individual looking (not just red/green) 		no
+B frame all						no 
+BW up vector 						no
+2B new primitives for each 				yes  (torus)
+2B L-system						no
+2B mood cycling 					no
+4B metaballs						no
+8B goal-oriented motion 				no
++4B joint contraints 					no

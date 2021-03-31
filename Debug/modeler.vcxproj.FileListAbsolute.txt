@@ -1,0 +1,2 @@
+C:\Users\Aleks\Desktop\2021Spring\CompGraph\modeler\ModSkelS20\Debug\modeler.exe
+C:\Users\Aleks\Desktop\2021Spring\CompGraph\modeler\ModSkelS20\Debug\modeler.pdb
